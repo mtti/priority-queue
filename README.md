@@ -1,0 +1,1 @@
+A simple repackaging of [BlueRaja/High-Speed-Priority-Queue-for-C-Sharp](https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp) as a Unity package so it can be included as a dependency by other packages.

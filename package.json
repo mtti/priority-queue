@@ -1,0 +1,11 @@
+{
+  "name": "com.mattihiltunen.priority-queue",
+  "version": "1.0.0",
+  "displayName": "Priority Queue",
+  "description": "BlueRaja's priority queue packaged as a Unity package",
+  "unity": "2019.3",
+  "author": {
+    "name": "Matti Hiltunen",
+    "url": "https://www.mattihiltunen.com"
+  }
+}
